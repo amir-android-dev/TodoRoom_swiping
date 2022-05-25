@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoRoom</string>
+    <string name="description">Description:</string>
+    <string name="title">Title:</string>
+    <string name="save">Save</string>
+    <string name="update">UPDATE</string>
+    <string name="cancel">CANCEL</string>
+</resources>
